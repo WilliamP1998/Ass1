@@ -37,7 +37,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/jest": "^22.0.1",
     "@types/node": "^9.3.0",
-    "class-transformer": "^0.1.8",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.7.3",
     "codelyzer": "^4.1.0",
     "concurrently": "^3.6.1",

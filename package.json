@@ -38,7 +38,7 @@
     "@types/jest": "^22.0.1",
     "@types/node": "^9.3.0",
     "class-transformer": "^0.1.8",
-    "class-validator": "^0.7.3",
+    "class-validator": "^0.14.0",
     "codelyzer": "^4.1.0",
     "concurrently": "^3.6.1",
     "core-js": "^2.4.1",
